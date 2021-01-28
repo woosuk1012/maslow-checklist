@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>
+      maslow daily checklist
+    </title>
+    <style>
+      body {background-color: white}
+
+    </style>
+  </head>
+  <body>
+    today's Events<br />
+    work<br />
+    <img src="maslow_step.png" alt="maslow step image"
+    width="800">
+  </body>
+</html>

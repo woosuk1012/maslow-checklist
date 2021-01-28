@@ -1,0 +1,49 @@
+<script type="text/javascript">
+  username="Beatrice Albert"
+</script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>
+      maslow checkist settings
+    </title>
+      <style>
+        h1 {
+          color: rgb(255,217,102);
+        }
+        main {
+          border:1px black dotted;
+          width: 400px; margin-left: 300px;
+        }
+        script {
+          color: rgb(132,151,176);
+        }
+        hr {
+          align-items: center;
+          width: 350px;
+        }
+      </style>
+  </head>
+  <body>
+    <main>
+      <h1>
+        Settings
+      </h1>
+      <script>
+          document.write(username);
+      </script>
+      <br />
+      <br />
+      <br />
+      <hr />
+      <br />
+      <h1>
+        statistical & analysis
+      </h1>
+      <hr />
+      <br
+
+    </main>
+  </body>
+</html>
